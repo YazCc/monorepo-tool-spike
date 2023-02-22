@@ -6,6 +6,7 @@ import { Component } from "../../tools/src/Component";
 function App() {
     return (
         <div className="App">
+            <p>App (React 18)</p>
             <Component />
         </div>
     );
